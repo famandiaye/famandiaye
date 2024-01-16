@@ -1,0 +1,9 @@
+package exercice10s;
+
+public class FullOccurenceCount {
+
+	public FullOccurenceCount() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

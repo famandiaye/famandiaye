@@ -1,0 +1,9 @@
+package exercice121;
+
+public class Objets {
+
+	public Objets() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

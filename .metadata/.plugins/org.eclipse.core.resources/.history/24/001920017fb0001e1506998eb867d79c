@@ -1,0 +1,14 @@
+package exercice9
+
+import java.util.Scanner;
+
+public class InvertString {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Entrez une chaîne de caractères : ");
+        String str = scanner.nextLine();
+        StringBuilder builder = new StringBuilder(str);
+        builder = builder.reverse();
+        System.out.println("L'inversion de cette chaîne donne : " );
+    }
+}

@@ -1,0 +1,9 @@
+package exercice9;
+
+public class InverseString {
+
+	public InverseString() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package exercice11;
+
+public class SeqOne {
+
+	public SeqOne() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

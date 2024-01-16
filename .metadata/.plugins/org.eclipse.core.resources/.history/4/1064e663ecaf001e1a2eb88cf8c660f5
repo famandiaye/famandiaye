@@ -1,0 +1,13 @@
+package exercice73;
+
+public class Operation {
+	// TODO Auto-generated constructor stub
+	public Operation(String date,int montant) {
+	 this.date = date;
+	 this.montant = montant;
+	}
+	public Operation(String date,int montant) {
+		 this.date = date date du jour;
+		 this.montant = montant;
+	}
+}

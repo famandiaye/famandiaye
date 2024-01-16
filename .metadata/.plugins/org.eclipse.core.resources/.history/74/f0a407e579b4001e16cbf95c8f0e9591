@@ -1,0 +1,11 @@
+package exercice12;
+public class Sequence{
+public static int compte(int[] tableau, int[] sequence) {
+    int occurrences = 0;
+    for (int i = 0; i <= tab.length - sequence.length; i++) {
+        for (int j = 0; j < sequence.length; j++) {
+        }      
+    }           
+             
+}
+}

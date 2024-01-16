@@ -1,0 +1,9 @@
+package exercice72;
+
+public class Tableau {
+
+	public Tableau() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package exercice8;
+
+public class StringTolnt {
+
+	public StringTolnt() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
